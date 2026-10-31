@@ -1,1 +1,1 @@
-window.BOOKING_CONFIG = Object.freeze({ clinicName: "Cabinet d’orthophonie", clinicPhone: "", appsScriptUrl: "" });
+window.BOOKING_CONFIG = Object.freeze({ clinicName: "Cabinet d’orthophonie", clinicPhone: "", appsScriptUrl: "https://script.google.com/macros/s/AKfycbz2Xfm8odH4sLXgp2Nzq9XvJHp-7ZWf24ruz-VflQB_R99sZnVuCucye_39XG44XOM/exec" });
